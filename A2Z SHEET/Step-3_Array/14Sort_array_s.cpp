@@ -9,7 +9,10 @@ void twoSum(int n, vector<int> &arr, int target) {
     }
 
     for (int i = 0; i < n; i++) {
-          cout<<hash[i]<<" , ";
+          // cout<<hash[i]<<" , ";
+                  cout<<hash[i]<<" , ";
+
+
     }
     
 }
